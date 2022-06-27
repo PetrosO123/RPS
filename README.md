@@ -1,2 +1,2 @@
 # RPS
-Rock Paper Scissors javascript practice
+Rock Paper Scissors UI configuration using javascript
