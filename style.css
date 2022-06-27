@@ -1,0 +1,15 @@
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+h1{
+    text-align: center;
+    height:100px;
+}
+
+ol{
+    height:200px;
+}
