@@ -62,7 +62,6 @@ function game(){
         }
         if (choices.includes(choice)){
             console.log(playRound(choice, computerPlay()))
-            
         }
     }
  
@@ -74,3 +73,6 @@ function userPrompt(){
     choice = choice.charAt(0).toUpperCase() + choice.slice(1)
     return choice 
 }
+
+a='hello'
+console.log(a.charAt(0).toUpperCase() + a.splice(1).toLowerCase());
